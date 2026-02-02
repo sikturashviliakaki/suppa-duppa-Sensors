@@ -1,6 +1,6 @@
 This is a beginner-level Python project designed to show how data collection works in the world of IoT (Internet of Things). Since I don't have a physical sensor yet, this program "simulates" one by generating its own data.
 
-✨ Key Features
+ Key Features
 Data Generation: It creates realistic temperature readings automatically.
 
 Smart Storage: It organizes all the readings into a list for easy access.
